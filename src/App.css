@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya&family=Open+Sans:wght@300&display=swap");
+
+@media (width <= 640px) and (width >= 370px) {
+  #menu-side-fimat {
+    width: 85%;
+  }
+  #logo-fimat {
+    width: 260px;
+  }
+}
+
+.all-text {
+  color: #7b0916;
+}
